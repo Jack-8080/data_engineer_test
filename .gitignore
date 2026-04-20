@@ -1,0 +1,6 @@
+*.md
+!README.md
+!test_payloads.md
+__pycache__/
+*.py[cod]
+venv*/
